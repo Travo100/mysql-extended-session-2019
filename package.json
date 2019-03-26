@@ -1,0 +1,29 @@
+{
+  "name": "mysql-extended-session-2019",
+  "version": "1.0.0",
+  "description": "an extended session for mysql for ucsd coding boot camp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Travo100/mysql-extended-session-2019.git"
+  },
+  "keywords": [
+    "mysql",
+    "node",
+    "inquirer"
+  ],
+  "author": "Travis Thompson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Travo100/mysql-extended-session-2019/issues"
+  },
+  "homepage": "https://github.com/Travo100/mysql-extended-session-2019#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "inquirer": "^6.2.2",
+    "mysql": "^2.16.0"
+  }
+}
